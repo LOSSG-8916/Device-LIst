@@ -39,7 +39,7 @@
 ---
  **Galaxy J3 Pro** 
 |Name|Spec|Android Version|What Works|What Broken|Current Status|
-|--|--|--|--|--|--|--|
+|--|--|--|--|--|--|
 |j3xprolte|Na|Na|Na|Na|Na|
 ---
  **Galaxy J5 (2015)** 
