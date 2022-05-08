@@ -22,8 +22,8 @@
  **Galaxy Tab E** 
 |Name|Spec|Android Version|What Works|What Broken|Current Status|
 |--|--|--|--|--|--|
-|gtelwifiue|Na|lineage-17.1/LFRQ|Bluetooth, Wifi, Brightness, External audio, GPS - Audio through headphone jack, Google play store, Skype,YouTube, Microphone, DRM|Rear Camers in Snap|Active|
-|gtesqltespr|Na|lineage-17.1/LFRQ|Bluetooth, Wifi, Brightness, External audio, GPS - Audio through headphone jack, Google play store, Skype,YouTube, Microphone, DRM|Rear Camers in Snap, Mobile(IDK)|Rear Camers in Snap, Mobile(IDK)|Active|
+|gtelwifiue|Na|lineage-17.1/LFRQ|Bluetooth, Wifi, Brightness, External audio, GPS - Audio through headphone jack, Google play store, Skype,YouTube, Microphone, DRM, Rear Camers in Snap||Active|
+|gtesqltespr|Na|lineage-17.1/LFRQ|Bluetooth, Wifi, Brightness, External audio, GPS - Audio through headphone jack, Google play store, Skype,YouTube, Microphone, DRM,Rear Camers in Snap, Mobile(IDK)|Rear Camers in Snap, Mobile(IDK)||Active|
 ---
  **Galaxy Tab A** 
 |Name|Spec|Android Version|What Works|What Broken|Current Status|
